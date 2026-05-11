@@ -29,6 +29,6 @@ src/
  │    └── Card.jsx
  ├── App.jsx
  └── main.jsx
-
+```
 ## Author
 Jyoti Bagri
